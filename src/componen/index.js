@@ -1,5 +1,15 @@
 import BottomTabNavigator from './BottomTabNavigator';
 import HeaderInformation from './HeaderInformation';
-import BannerInformation from './BannerInformation';
+import Layanan from './Layanan';
+import SmallButton from './SmallButton';
+import Club from './Club';
+import UpdateScore from './UpdateScore';
 
-export {BottomTabNavigator, HeaderInformation, BannerInformation};
+export {
+  BottomTabNavigator,
+  HeaderInformation,
+  Layanan,
+  SmallButton,
+  Club,
+  UpdateScore,
+};

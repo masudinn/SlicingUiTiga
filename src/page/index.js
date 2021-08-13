@@ -1,5 +1,5 @@
-import Home from './Home'
-import Akun from './Akun'
-import Jadwal from './Jadwal'
+import Home from './Home';
+import Akun from './Akun';
+import Jadwal from './Jadwal';
 
-export {Home, Akun, Jadwal}
+export {Home, Akun, Jadwal};

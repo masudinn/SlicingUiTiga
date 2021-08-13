@@ -6,6 +6,9 @@ import IconUserAktif from './user.svg';
 import IconUser from './user-abu.svg';
 import IconAkun from './akun-header.svg';
 import IconStadiumHeader from './stadium-header.svg';
+import IconLangganan from './langganan.svg';
+import Iconjointeam from './jointeam.svg';
+import Iconbooking from './bookinglapangan.svg';
 
 export {
   IconHome,
@@ -16,4 +19,7 @@ export {
   IconUser,
   IconAkun,
   IconStadiumHeader,
+  Iconjointeam,
+  IconLangganan,
+  Iconbooking,
 };
